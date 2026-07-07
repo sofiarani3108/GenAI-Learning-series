@@ -1,7 +1,0 @@
-streamlit
-google-generativeai
-python-dotenv
-duckduckgo-search
-pypdf
-sentence-transformers
-pinecone
